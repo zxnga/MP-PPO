@@ -1,0 +1,10 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+sb_logs/
+.tsvenv/
+saved_models/
+
+dataset_utils.py
+mp-ppo.ipynb
