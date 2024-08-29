@@ -4,4 +4,4 @@ Incorporating auxiliary objectives into Reinforcement Learning allows agents to 
 
 Repository still being update and code being cleaned.
 
-Off-policy version
+Off-policy version: transformer already trained beforehand
