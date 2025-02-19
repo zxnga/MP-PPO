@@ -2,9 +2,14 @@
 *.pyc
 __pycache__/
 
-sb_logs/
 .tsvenv/
+hackathon_dirisi/
 saved_models/
+sb_logs/
 
 dataset_utils.py
+hackathon.ipynb
 mp-ppo.ipynb
+tensorboard.ipynb
+
+.gitignore

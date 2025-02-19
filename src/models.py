@@ -10,7 +10,7 @@ from functools import partial
 
 from gymnasium import spaces
 
-from ts_utils import transform_start_field, create_test_dataloader
+from .ts_utils import transform_start_field, create_test_dataloader
 from transformers import TimeSeriesTransformerForPrediction      
 
 
